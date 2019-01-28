@@ -1,0 +1,55 @@
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+nav {
+	margin: -8px;
+	background-color: #333;
+	color: white;
+	padding: 15px
+
+}
+
+nav li {
+  float: left;
+}
+
+ nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+section {
+	height: 600px;
+}
+
+.fir-div {
+	float: left;
+	padding: 30px;
+	margin: -3px;
+}
+
+.sec-div {
+	float: right;
+	padding: 10px;
+	margin: 5px;
+}
+
+.sec-div li {
+	display: inline-block;
+	word-spacing: 10px;
+}
+
+footer {
+	background-color: #262626;
+	color: white;
+	height: 100px;
+	margin: -8px;
+}
